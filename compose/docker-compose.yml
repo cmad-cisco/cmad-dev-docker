@@ -1,8 +1,8 @@
 version: '3'
 
 volumes:
-    db-data:
-        jenkins_home
+    jenkins_home:
+        
 services:
     mongo:
         image: cmad-mongo
