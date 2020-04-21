@@ -8,3 +8,4 @@ function build() {
 #build cmad
 build mongo
 build mysql
+build jenkins
