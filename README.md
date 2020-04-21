@@ -12,7 +12,7 @@ To use these files, follow these steps:
 1. cd to the directory where this README.md exists and run build-all.sh from there
 
 ### Running:
-1. To start the infra services (kafka, redis etc) - Go to the 'compose' sub-directory and run ./start.sh there.
+1. To start the infra services (mongo, mysql etc) - Go to the 'compose' sub-directory and run ./start.sh there.
 1. To run ndp services - Go to the 'appctl' sub-directory and run ./run.sh there. It will take you into a container in which you can start whatever services you want with appctl and use the ndp cli as well.
 
 
